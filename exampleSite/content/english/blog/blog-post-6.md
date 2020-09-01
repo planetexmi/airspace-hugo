@@ -5,8 +5,10 @@ author: vivi
 image: "/images/slider-bg-1.jpg"
 bg_image: "/images/slider-bg-1.jpg"
 categories:
+- fun
 - Company News
 tags:
+- music
 - News
 - Retro
 - AI
